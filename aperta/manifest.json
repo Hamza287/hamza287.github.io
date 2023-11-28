@@ -1,6 +1,6 @@
 {
-    "name": "aperta",
-    "short_name": "aperta",
+    "name": "project_management",
+    "short_name": "project_management",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
